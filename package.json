@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "serve": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.0"
+  },
+  "author": "a-hsien"
+}
